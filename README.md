@@ -13,15 +13,4 @@ Aşağıdaki adımları takip ederek WordPress'i hızlıca çalıştırabilirsin
 
 Eğer bu araçlar sisteminizde kurulu değilse, [Docker'ı buradan indirebilirsiniz](https://www.docker.com/get-started).
 
-### Projeyi Klonlayın
-
-Bu projeyi kendi bilgisayarınıza klonlamak için aşağıdaki komutu çalıştırabilirsiniz:
-
-```bash
-git clone https://github.com/kullaniciadiniz/wordpress-docker-compose.git
-cd wordpress-docker-compose
-docker-compose up -d
-
-
-
 
